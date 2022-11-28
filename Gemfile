@@ -46,3 +46,18 @@ group :development do
   # gem "spring"
 end
 
+gem "devise", "~> 4.7"
+
+gem "dotenv-rails", "~> 2.7"
+
+gem "omniauth", "~> 1.9"
+
+gem "omniauth-github", "~> 1.4"
+
+gem 'paperclip', '~> 6.1'
+
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
+gem 'searchkick', '~> 4.3'
+
+gem 'sprockets-rails'
